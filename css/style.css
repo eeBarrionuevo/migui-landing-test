@@ -2,7 +2,7 @@
 
 @font-face {
   font-family: fontPrimay;
-  src:url("../assets/fonts/Publica-Sans-Round-Regular.otf");
+  src:url("../assets/fonts/Publica-Sans-Round-Regular.otf") format('opentype');
 }
 
 :root {
